@@ -1,0 +1,4 @@
+﻿  Source.cpp
+f:\dev\sideproject_200906\leetcode\leetcode\source.cpp(3): error C2143: syntax error: missing ';' before '<'
+f:\dev\sideproject_200906\leetcode\leetcode\source.cpp(3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\dev\sideproject_200906\leetcode\leetcode\source.cpp(3): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
